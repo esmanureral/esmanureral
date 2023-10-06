@@ -29,7 +29,7 @@
 -  🏫 Nevşehir Hacı Bektaş Veli Üniversitesi  
   
 
-- 🖥️Bilgisayar Mühendisliği 1/4  
+- 🖥️Bilgisayar Mühendisliği 2/4  
 
 
 </td><td valign="top" width="50%">
