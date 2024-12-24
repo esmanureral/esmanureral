@@ -66,6 +66,10 @@
 ## **🌟 Favori Projelerim**
 
 <div align="center">
+
+  <a href="https://github.com/esmanureral/etkinlikvesosyalaktiviteplanlamauygulamasi.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esmanureral&repo=etkinlikvesosyalaktiviteplanlamauygulamasi&theme=radical" alt="Etkinlik ve Sosyal Aktivite Planlama Uygulaması" style="width: 45%; margin-bottom: 10px;" />
+  
   </a>
   <a href="https://github.com/esmanureral/Kotlin-Giris-Ekrani">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esmanureral&repo=Kotlin-Giris-Ekrani&theme=radical" alt="Kotlin Giriş Ekranı" style="width: 45%; margin-bottom: 10px;" />
@@ -77,4 +81,5 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=esmanureral&repo=Expense-Tracking-App&theme=radical" alt="Expense Tracking App" style="width: 45%; margin-bottom: 10px;" />
   </a>
 </div>
+
 
