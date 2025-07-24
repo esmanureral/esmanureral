@@ -54,32 +54,5 @@
 
 ---
 
-## **📊 GitHub İstatistikleri**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esmanureral&show_icons=true&theme=radical" alt="Esmanur's GitHub Stats" style="width: 45%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmanureral&layout=compact&theme=radical" alt="Top Languages" style="width: 45%;" />
-</div>
-
----
-
-## **🌟 Favori Projelerim**
-
-<div align="center">
-
-  <a href="https://github.com/esmanureral/etkinlikvesosyalaktiviteplanlamauygulamasi.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esmanureral&repo=etkinlikvesosyalaktiviteplanlamauygulamasi&theme=radical" alt="Etkinlik ve Sosyal Aktivite Planlama Uygulaması" style="width: 45%; margin-bottom: 10px;" />
-  
-  </a>
-  <a href="https://github.com/esmanureral/Kotlin-Giris-Ekrani">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esmanureral&repo=Kotlin-Giris-Ekrani&theme=radical" alt="Kotlin Giriş Ekranı" style="width: 45%; margin-bottom: 10px;" />
-  </a>
-  <a href="https://github.com/esmanureral/kotlinde-2-temel-proje">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esmanureral&repo=kotlinde-2-temel-proje&theme=radical" alt="Kotlin'de 2 Temel Proje" style="width: 45%; margin-bottom: 10px;" />
-  </a>
-  <a href="https://github.com/esmanureral/Expense-Tracking-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esmanureral&repo=Expense-Tracking-App&theme=radical" alt="Expense Tracking App" style="width: 45%; margin-bottom: 10px;" />
-  </a>
-</div>
 
 
