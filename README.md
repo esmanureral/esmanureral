@@ -1,40 +1,42 @@
-## **<div align="center">👋 Merhaba, Ben Esmanur Eral</div>**  
+## <div align="center">👋 Merhaba, Ben Esmanur Eral</div>  
 
 <div align="center">
 <a href="https://github.com/esmanureral" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
+<img src="https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/esmanur-eral-a98524251" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</a>  
 <a href="mailto:esmanur2eral@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</div>
-
-
-
-<table><tr><td valign="top" width="50%">
-
-### 🎓 Eğitim & İlgi Alanları
-
-- 🏫 **Nevşehir Hacı Bektaş Veli Üniversitesi** - Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
-  
-- 💻 **Mobil Uygulama Geliştirme** - Özellikle Kotlin ile uygulama geliştirmeye yoğun ilgi duyuyorum.
-
-
-</td>
-<td valign="top" width="100%">
-
-<div align="center">
-<img src="https://www.hareketligifler.net/data/media/56/bilgisayar-hareketli-resim-0019.gif" align="start" style="width: 90%; max-width: 10px;" />
 </div>  
 
-</td>
-</tr>
-</table>
+---
+
+### 👩‍💻 Hakkımda  
+
+- 🎓 **Nevşehir Hacı Bektaş Veli Üniversitesi** – Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.  
+- 📱 Mobil uygulama geliştirme üzerine çalışıyorum, özellikle **Kotlin** ile Android projeleri geliştiriyorum.  
+---
+
+### 🛠️ Kullandığım Teknolojiler  
+
+<div align="center">
+  
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+</div>  
+
+---
 
 
 
+---
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmanureral&layout=compact&theme=radical" height="180px"/>
+</div>  
+
+---
+
+</div>
