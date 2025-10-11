@@ -16,7 +16,7 @@
 
 ### 👩‍💻 Hakkımda  
 
-- 🎓 **Nevşehir Hacı Bektaş Veli Üniversitesi** – Bilgisayar Mühendisliği 4. sınıf öğrencisiyim
+- 🎓 **Nevşehir Hacı Bektaş Veli Üniversitesi** – Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
 - 📱 Mobil uygulama geliştirme üzerine çalışıyorum, özellikle **Kotlin** ile Android projeleri geliştiriyorum
 ---
 
