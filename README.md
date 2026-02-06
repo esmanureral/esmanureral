@@ -32,11 +32,6 @@
 
 
 
----
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmanureral&layout=compact&theme=radical" height="180px"/>
-</div>  
 
----
 
 </div>
