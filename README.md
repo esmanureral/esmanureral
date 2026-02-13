@@ -13,7 +13,7 @@
 </div>  
 
 ---
-.
+
 ### 👩‍💻 Hakkımda  
 
 - 🎓 **Nevşehir Hacı Bektaş Veli Üniversitesi** – Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
